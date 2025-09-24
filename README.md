@@ -1,4 +1,4 @@
-VITE REACT JS
+VITE REACT JS ACTIVITY
 #Installation
 
 - npm create vite@latest TaskManager
