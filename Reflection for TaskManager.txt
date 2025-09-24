@@ -1,3 +1,2 @@
-While making the Task Manager activity, I learned how to structure a React app using reusable components and props. 
-I understood how state management works with useState to add, update, and delete tasks, as well as how useEffect can save data to localStorage for persistence. 
+While making the Task Manager activity, I learned how to structure a React app using reusable components and props. I understood how state management works with useState to add, update, and delete tasks, as well as how useEffect can save data to localStorage for persistence. 
 I also realized the importance of styling and layout to make the interface user-friendly. Overall, this activity helped me practice React fundamentals in a practical and interactive way.
